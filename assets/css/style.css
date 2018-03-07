@@ -1,0 +1,18 @@
+
+.con{
+	background-color: gray;
+	height : 100vh;
+}
+.one{
+	background-color: orange;
+	height: 200px;
+}
+.two{
+	background-color: black;
+	height: 200px;
+}
+
+.three{
+	background-color: blue;
+	height: 200px;
+}
